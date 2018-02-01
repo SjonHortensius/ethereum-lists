@@ -7099,4 +7099,7 @@
 },{
 "id":       "https://smartcontractlink.com",
 "comment":  "SmartContract/LINK fake crowdsale site"
+},{
+"id":       "myetherwallet.import-tokens.com",
+"comment":  "Malicious clone: MEW"
 }]
